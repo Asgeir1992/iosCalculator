@@ -1,0 +1,28 @@
+
+== The Setup === 
+
+I used expo because I had a small propblem with displaying the app in the browser and on my ios simulator therefor I used expo.
+
+although the app is created with expo there is no features used with expo. so the project is pretty much a react-native project. 
+
+I installed expo with the command: npm install --global expo-cli
+
+I created a blank react-native-app with expo.
+with the command: expo init iosCalculat
+
+to start the expo project run the command: expo start
+then the metro builder should open in your web browser of choice.
+
+to open the ios simulator, press "i" in the terminal where the app is running aftur starting the app.
+
+== Problem with Git ==
+
+I couldn't push the whole project into Git repo because of too many files so I skipped node_modules folder. the solution that worked for me was if I deleted the folder I could set it up again running the command: npm install
+
+it installs all the dependecies needed to open the project.
+
+== other ===
+
+I didn't use any packages, I only used react-native and react to program the calculator so should be open the project. I tried to program the calculator. I have experience with typescript but I decided to skip it this time.
+
+This was a very fun project and I thank you for the opportunity, I had to take some days off from the prject because of work but I tried to finish the project.
